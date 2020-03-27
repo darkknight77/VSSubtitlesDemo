@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Bucky\source\repos\SubtitlesDemo\SubtitlesDemo\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-03-24T14:18:43.362</Modified>
+      <Modified>2020-03-27T12:03:52.327</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Bucky\source\repos\SubtitlesDemo\SubtitlesDemo\bin\x86\Debug\SubtitlesDemo.exe">
       <PackagePath>entrypoint\SubtitlesDemo.exe</PackagePath>
-      <Modified>2020-03-24T14:18:42.364</Modified>
+      <Modified>2020-03-27T12:03:50.900</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.9\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -53,10 +53,6 @@
     <AppxPackagedFile Include="C:\Users\Bucky\source\repos\SubtitlesDemo\SubtitlesDemo\Assets\Media\ElephantsDream-Clip-SRT_en.srt">
       <PackagePath>Assets\Media\ElephantsDream-Clip-SRT_en.srt</PackagePath>
       <Modified>2020-03-23T20:29:22.906</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Bucky\source\repos\SubtitlesDemo\SubtitlesDemo\Assets\ment.mp4">
-      <PackagePath>Assets\ment.mp4</PackagePath>
-      <Modified>2020-03-23T19:22:26.557</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Bucky\source\repos\SubtitlesDemo\SubtitlesDemo\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -102,11 +98,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Bucky\source\repos\SubtitlesDemo\SubtitlesDemo\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-03-24T14:17:37.428</Modified>
+      <Modified>2020-03-27T12:03:50.587</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Bucky\source\repos\SubtitlesDemo\SubtitlesDemo\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-03-24T14:17:37.428</Modified>
+      <Modified>2020-03-27T12:03:50.587</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -114,11 +110,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Bucky\source\repos\SubtitlesDemo\SubtitlesDemo\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-03-23T21:46:50.106</Modified>
+      <Modified>2020-03-24T14:44:55.780</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Bucky\source\repos\SubtitlesDemo\SubtitlesDemo\bin\x86\Debug\Core\SubtitlesDemo.exe">
       <PackagePath>SubtitlesDemo.exe</PackagePath>
-      <Modified>2020-03-24T14:18:43.347</Modified>
+      <Modified>2020-03-27T12:03:52.296</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
